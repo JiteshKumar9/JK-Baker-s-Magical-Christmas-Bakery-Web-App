@@ -76,5 +76,6 @@ Backend handles:
 
 - Created with passion, creativity, and winter magic.
 - Developed entirely using Vibe Coding to bring smooth flow and rapid building.
+- Made by using Youware, a vibe coding AI Tool.
   
 
