@@ -12,6 +12,7 @@ Check out the live version here:
 # ⭐ Festive Christmas UI
 
 A glowing Christmas-inspired theme blended with bakery aesthetics.
+
 -Animated snowflakes
 -Hover effects
 -Neon gradients
@@ -21,11 +22,12 @@ A glowing Christmas-inspired theme blended with bakery aesthetics.
 # ⭐ Product Catalog
 
 All products are categorized & displayed with:
--Name
--Price
--Short description
--A charming Christmas quote
--Category filter (Cakes, Pastries, Breads, Desserts, Specials, etc.)
+
+- Name
+- Price
+- Short description
+- A charming Christmas quote
+- Category filter (Cakes, Pastries, Breads, Desserts, Specials, etc.)
 
 Includes Hogwarts-inspired treats like:
 Treacle Tart, Pumpkin Pasties, Chocolate Frogs, Butterbeer Cupcakes, and more.
@@ -33,24 +35,27 @@ Treacle Tart, Pumpkin Pasties, Chocolate Frogs, Butterbeer Cupcakes, and more.
 # ⭐ Order System
 
 Users can:
--Select items
--Place orders
--Order details are stored in the backend database
+
+- Select items
+- Place orders
+- Order details are stored in the backend database
 
 # ⭐ Full-Stack
 
 Backend handles:
--Product fetching
--Order storing
--Validation
--API routing
+
+- Product fetching
+- Order storing
+- Validation
+- API routing
 
 # Frontend handles:
--UI/UX
--Christmas animations
--Product display
--Category sorting
--Order form
+
+- UI/UX
+- Christmas animations
+- Product display
+- Category sorting
+- Order form
 
 # ⭐ Contact Section
 
