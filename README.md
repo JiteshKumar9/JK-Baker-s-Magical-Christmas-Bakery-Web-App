@@ -13,11 +13,11 @@ Check out the live version here:
 
 A glowing Christmas-inspired theme blended with bakery aesthetics.
 
--Animated snowflakes
--Hover effects
--Neon gradients
--Smooth page transitions
--Warm, cozy layout
+- Animated snowflakes
+- Hover effects
+- Neon gradients
+- Smooth page transitions
+- Warm, cozy layout
 
 # ⭐ Product Catalog
 
@@ -57,11 +57,20 @@ Backend handles:
 - Category sorting
 - Order form
 
-# ⭐ Contact Section
+# Screenshots 
+<img width="1908" height="877" alt="image" src="https://github.com/user-attachments/assets/8bb7c1cd-0cbe-40f3-9a89-54c8b9dfcb58" />
 
-A playful festive contact detail:
+<img width="1912" height="758" alt="image" src="https://github.com/user-attachments/assets/a6b8adae-02cb-47dc-8203-616011dac380" />
 
-Email: christmas@support.com
+<img width="1906" height="870" alt="image" src="https://github.com/user-attachments/assets/deae0ede-11a4-4d85-b2c2-702869592605" />
 
-Address: From Earth, Arctic Region
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/2702ed80-0e16-4a2c-b777-c341fe5ab002" />
+
+
+
+🎅 Credits
+
+- Created with passion, creativity, and winter magic.
+- Developed entirely using Vibe Coding to bring smooth flow and rapid building.
+  
 
