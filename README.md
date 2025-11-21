@@ -3,26 +3,29 @@ JK Baker’s is a modern, festive, full-stack bakery web application designed wi
 
 This project was built using Vibe Coding, keeping the workflow clean, fast, and developer-friendly.
 
-[![Live Demo](https://img.shields.io/badge/Visit-Live%20Site-green)]([https://your-deployed-link-here](https://youware.app/project/1cnmmvyh25?enter_from=share&screen_status=2))
+## 🌐 Live Website  
+Check out the live version here:  
+👉 https://youware.app/project/1cnmmvyh25?enter_from=share&screen_status=2
+
 
 ## 🎄 Features
 # ⭐ Festive Christmas UI
 
-A glowing Christmas-inspired theme blended with bakery aesthetics —
-• Animated snowflakes
-• Hover effects
-• Neon gradients
-• Smooth page transitions
-• Warm, cozy layout
+A glowing Christmas-inspired theme blended with bakery aesthetics.
+-Animated snowflakes
+-Hover effects
+-Neon gradients
+-Smooth page transitions
+-Warm, cozy layout
 
 # ⭐ Product Catalog
 
 All products are categorized & displayed with:
-• Name
-• Price
-• Short description
-• A charming Christmas quote
-• Category filter (Cakes, Pastries, Breads, Desserts, Specials, etc.)
+-Name
+-Price
+-Short description
+-A charming Christmas quote
+-Category filter (Cakes, Pastries, Breads, Desserts, Specials, etc.)
 
 Includes Hogwarts-inspired treats like:
 Treacle Tart, Pumpkin Pasties, Chocolate Frogs, Butterbeer Cupcakes, and more.
@@ -30,24 +33,24 @@ Treacle Tart, Pumpkin Pasties, Chocolate Frogs, Butterbeer Cupcakes, and more.
 # ⭐ Order System
 
 Users can:
-• Select items
-• Place orders
-• Order details are stored in the backend database
+-Select items
+-Place orders
+-Order details are stored in the backend database
 
 # ⭐ Full-Stack
 
 Backend handles:
-• Product fetching
-• Order storing
-• Validation
-• API routing
+-Product fetching
+-Order storing
+-Validation
+-API routing
 
 # Frontend handles:
-• UI/UX
-• Christmas animations
-• Product display
-• Category sorting
-• Order form
+-UI/UX
+-Christmas animations
+-Product display
+-Category sorting
+-Order form
 
 # ⭐ Contact Section
 
