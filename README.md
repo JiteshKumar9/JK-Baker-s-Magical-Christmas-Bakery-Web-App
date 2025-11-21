@@ -1,4 +1,4 @@
-# JK-Baker-s-Magical-Christmas-Bakery-Web-App
+# JK Baker's Bakery Web App
 JK Baker’s is a modern, festive, full-stack bakery web application designed with a warm Christmas aesthetic, smooth animations, and a magical shopping experience. This app showcases a wide variety of cakes, pastries, breads, desserts, and Hogwarts-inspired festive treats. Users can browse products, filter by category, and place orders that get stored in the database.
 
 This project was built using Vibe Coding, keeping the workflow clean, fast, and developer-friendly.
