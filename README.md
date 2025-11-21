@@ -66,6 +66,10 @@ Backend handles:
 
 <img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/2702ed80-0e16-4a2c-b777-c341fe5ab002" />
 
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/91489309-523b-4a63-ba8d-b1008c721356" />
+
+
+
 
 
 🎅 Credits
